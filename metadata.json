@@ -1,0 +1,6 @@
+{
+  "name": "Paranormal EVP EMF Ghost Box",
+  "description": "An advanced client-server paranormal investigation suite featuring EMF fluctuations, interactive Ghost Box sweep, real EVPs recorder, thermal/night-vision visual filters, and AI spirit transcripts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
